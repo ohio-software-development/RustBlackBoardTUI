@@ -1,4 +1,7 @@
 # RustBlackBoardTUI
+This is the UI branch which will be used to implement the UI elements the user will interact with to access BlackBoard elements.
+
+---------------------------
 Rust TUI for Software Tools project utilizing the Blackboard API for CS3560 section 100.
 
 ### Team Members
